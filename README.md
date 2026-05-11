@@ -2,7 +2,7 @@
 <h3 align="center">📊 Analista de Datos Jr. | 💻 Desarrollador Web & App | 🇩🇴 Santo Domingo, RD</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/carlos-perez-738016371" target="_blank">
+  <a href="[https://linkedin.com/in/carlos-perez-738016371](https://www.linkedin.com/in/carlos-manuel-perez-738016371/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Disponible-Remoto-brightgreen?style=for-the-badge"/>
